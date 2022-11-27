@@ -273,7 +273,9 @@ img{
     color: rgba(117, 117, 117, 0.5);}
 .comment-input {
     height: 120px;
-    padding: 16px 12px;} 
+    padding: 16px 12px;
+    resize: none;
+    } 
 
     /*---------------checkbox form---------  */
 .checkbox-form {
